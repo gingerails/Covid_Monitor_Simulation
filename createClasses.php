@@ -5,8 +5,8 @@ include 'C:\Users\ginge\PhpstormProjects\monitorProject\Entity\Desk.php';
 include 'C:\Users\ginge\PhpstormProjects\monitorProject\Entity\Student.php';
 include 'C:\Users\ginge\PhpstormProjects\monitorProject\Entity\Classroom.php';
 
-$classroom = createClass();
-//echo(print_r($classroom->getStudentsArray()));
+//$classroom = createClass();
+//echo($classroom->getStudentsArray());
 
 function createClass(): Classroom
 {
